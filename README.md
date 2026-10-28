@@ -1,3 +1,3 @@
-# hello-word
+# hello-world
 GitHub
 I'm Kate
